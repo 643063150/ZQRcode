@@ -28,5 +28,5 @@ WeChatQRCode 是基于微信开源的基于opencv的二维码扫描模型封装�
 
 
 
- [1]: https://blog.csdn.net/ysy950803/article/details/89601287?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
-  [2]: https://github.com/Tencent/MMKV/blob/master/readme_cn.md
+ [1]: https://github.com/bingoogolapple/BGAQRCode-Android
+  [2]: https://github.com/jenly1314/WeChatQRCode
